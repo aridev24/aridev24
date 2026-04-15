@@ -1,5 +1,4 @@
 ## Hey 👋 I Am "Abdul-Raffay". You can call me "Ari".
-dfgfgd
 
 ### 🤖 Current Focus
 <p>
