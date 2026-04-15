@@ -23,9 +23,9 @@ I’m especially interested in AI and robotics, not just how they work, but how 
 
 
 ### 🛠 Tech Stack
-<p>
-💻 JavaScript • Python • C++
-🌐 HTML • CSS
-🧠 AI APIs • Automation • Intelligent systems
-⚙️ Git • VS Code
-</p>
+
+### 💻 JavaScript • Python • C++
+### 🌐 HTML • CSS
+### 🧠 AI APIs • Automation • Intelligent systems
+### ⚙️ Git • VS Code
+
