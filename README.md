@@ -19,5 +19,5 @@ I enjoy building interactive web applications, games, and AI-powered systems tha
 Technology, for me, is a mix of creativity and problem-solving.
 I like experimenting, trying new ideas, and pushing beyond what I already know.
 
-I’m especially interested in AI and robotics — not just how they work, but how they can change the way humans interact with technology.
+I’m especially interested in AI and robotics, not just how they work, but how they can change the way humans interact with technology.
 </p>
