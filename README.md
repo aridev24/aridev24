@@ -1,7 +1,7 @@
 ## Hey 👋 I Am "Abdul-Raffay". You can call me "Ari".
 dfgfgd
 
-## 🤖 Current Focus
+### 🤖 Current Focus
 <p>
 - Building an AI Desktop Robot Pet, exploring the future of personal AI companions, behavior, and interaction.
 </p>
