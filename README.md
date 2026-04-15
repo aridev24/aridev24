@@ -1,4 +1,4 @@
-## Hi 👋 I Am "Abdul-Raffay". You can call me "Ari".
+## Hey 👋 I Am "Abdul-Raffay". You can call me "Ari".
 
 
 <!--
