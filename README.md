@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&width=800&lines=Hey+%F0%9F%91%8B+I+am+Abdul+Raffay+(Ari);I+love+building+cool+stuff+to+shape+the+future+in+my+way" />
 </p>
 
----
+___
 
 ### 🤖 Current Focus
 <p>
