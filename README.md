@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I+am+Abdul+Raffay+(Ari);I+love+building+AI+systems%2C+robots%2C+and+interactive+experiences" />
+</p>
+
 ## Hey 👋 I Am "Abdul-Raffay". You can call me "Ari".
 
 ### 🤖 Current Focus
