@@ -1,3 +1,6 @@
+<img width="1280" height="400" alt="1" src="https://github.com/user-attachments/assets/8368fd54-75a7-43b8-aee5-df9ecb14880c" />
+
+
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&width=800&lines=Hey+%F0%9F%91%8B+I+am+Abdul+Raffay+(Ari);I+love+building+🛠+cool+stuff+to+shape+the+future+in+my+way" />
 </p>
