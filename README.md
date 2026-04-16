@@ -35,7 +35,9 @@ ___
 ### 🛠 Tech Stack
 
 ### 💻 Languages:
-JavaScript •  ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=blue&labelColor=black&color=blue) • C++
+![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black&color=yellow)
+ •  ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=blue&labelColor=black&color=blue) • ![Static Badge](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&labelColor=black&color=blue)
+
 ### 🌐 Web:
 HTML • CSS
 ### 🧠 AI/Automation:
