@@ -41,6 +41,12 @@ Git • VS Code
 
 ___
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true" />
+</p>
+
+___
+
 ### 🎯 Mindset
 
 - Build products. Not just projects.
