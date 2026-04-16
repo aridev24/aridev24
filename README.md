@@ -42,7 +42,7 @@ Git • VS Code
 ___
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true&theme=tokyonight" />
+   /* <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true&theme=tokyonight" /> */
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true" />
    <br>
