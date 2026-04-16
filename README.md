@@ -39,18 +39,18 @@ ___
 
 ### 🎯 Mindset
 
-Build products. Not just projects.
-Learn by doing. Improve by shipping.
+- Build products. Not just projects.
+- Learn by doing. Improve by shipping.
 
 ___
 
 ### 📈 Vision
 
-To build intelligent systems and robotics-based products that shape how people interact with technology.
+- To build intelligent systems and robotics-based products that shape how people interact with technology.
 
 ___
 
 ### ⚡ Fun Side
-🎨 Creative design & digital art
-🎮 Game mechanics & interaction design
-🎌 Anime (discipline, mindset, growth)
+- 🎨 Creative design & digital art
+- 🎮 Game mechanics & interaction design
+- 🎌 Anime (discipline, mindset, growth)
