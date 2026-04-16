@@ -21,6 +21,8 @@ I like experimenting, trying new ideas, and pushing beyond what I already know.
 I’m especially interested in AI and robotics, not just how they work, but how they can change the way humans interact with technology.
 </p>
 
+___
+
 
 ### 🛠 Tech Stack
 
