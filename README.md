@@ -48,7 +48,7 @@ ___
 Figma • Canva
 
 ### 🧠 AI/Automation:
-AI APIs • Automation • Intelligent systems
+AI APIs • ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=blue&labelColor=black&color=blue) 
 
 ### 🎮 Game Development:
 GameMaker • GDevelop
