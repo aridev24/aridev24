@@ -45,7 +45,7 @@ ___
    <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true" />
    <br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aridev24" />
-   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true&theme=tokyonight" />
 </p>
 
 
