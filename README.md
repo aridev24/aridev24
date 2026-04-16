@@ -45,7 +45,8 @@ ___
    <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true" />
    <br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aridev24" />
- 
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridev24&layout=compact&hide_border=true" />
 </p>
 
 
