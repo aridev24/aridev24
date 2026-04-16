@@ -42,12 +42,16 @@ ___
 ### 🌐 Web:
 ![Static Badge](https://img.shields.io/badge/html5-balck?style=for-the-badge&logo=html5&color=black) 
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&labelColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=black&color=yellow)
 
+### 🎨 Design:
+Figma • Canva
 
 ### 🧠 AI/Automation:
 AI APIs • Automation • Intelligent systems
+
 ### ⚙️ Tools:
-Git • VS Code
+VS Code, Visual Studio
 
 ___
 
