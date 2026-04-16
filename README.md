@@ -47,8 +47,8 @@ ___
 ### 🎨 Design:
 Figma • Canva
 
-### 🧠 AI:
-AI APIs
+### 🧠 AI & Robotics:
+AI APIs • arduino • ![Static Badge](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&labelColor=black&color=blue)
 
 ### 🎮 Game Development:
 GameMaker • GDevelop
