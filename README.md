@@ -50,8 +50,11 @@ Figma • Canva
 ### 🧠 AI/Automation:
 AI APIs • Automation • Intelligent systems
 
+### 🎮 Game Development:
+GameMaker • GDevelop
+
 ### ⚙️ Tools:
-VS Code, Visual Studio
+VS Code • Visual Studio
 
 ___
 
