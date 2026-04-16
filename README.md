@@ -42,10 +42,10 @@ Git • VS Code
 ___
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true&theme=tokyonight" />
    <br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aridev24" />
-   <img src="https://github-readme-stats.vercel.app/api?username=aridev24&show_icons=true&theme=tokyonight" />
+ 
 </p>
 
 
