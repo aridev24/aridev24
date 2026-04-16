@@ -39,7 +39,8 @@ ___
  •  ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=blue&labelColor=black&color=blue) • ![Static Badge](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&labelColor=black&color=blue)
 
 ### 🌐 Web:
-[HTML](https://img.shields.io/badge/html5-balck?style=for-the-badge&logo=html5&color=black
+[[HTML](https://img.shields.io/badge/html5-balck?style=for-the-badge&logo=html5&color=black](https://img.shields.io/badge/html5-balck?style=for-the-badge&logo=html5&color=black
+)
 ) • CSS
 ### 🧠 AI/Automation:
 AI APIs • Automation • Intelligent systems
