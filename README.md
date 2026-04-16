@@ -54,3 +54,11 @@ ___
 - 🎨 Creative design & digital art
 - 🎮 Game mechanics & interaction design
 - 🎌 Anime (discipline, mindset, growth)
+
+___
+
+### 📫 Connect
+
+🌐 Website: [aridev24.github.io](https://www.aridev24.github.io)
+📷 Instagram: [ari_vibes6t9](https://www.instagram.com/ari_vibes6t9/)
+📩 Email: raffaya153@gmail.com
