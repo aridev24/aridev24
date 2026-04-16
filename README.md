@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&width=800&lines=Hey+%F0%9F%91%8B+I+am+Abdul+Raffay+(Ari);I+love+building+cool+stuff+to+shape+the+future+in+my+way" />
+ <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&width=800&lines=Hey+%F0%9F%91%8B+I+am+Abdul+Raffay+(Ari);I+love+building+🛠+cool+stuff+to+shape+the+future+in+my+way" />
 </p>
 
 ___
@@ -77,3 +77,11 @@ ___
 🌐 Website: [aridev24.github.io](https://www.aridev24.github.io)
 📷 Instagram: [ari_vibes6t9](https://www.instagram.com/ari_vibes6t9/)
 📩 Email: raffaya153@gmail.com
+
+### ✌ Collaboration
+
+I’m always open to collaborating with people who enjoy building meaningful and creative tech.
+
+Whether it’s AI systems, interactive web apps, games, or experimental ideas, I like working with people who bring curiosity, creativity, and a builder mindset.
+
+If you’re working on something interesting or want to build something together, feel free to reach out.
