@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="9qU-U1pVGErfhjHnxmg7RU-bQyFPHufLczbpEX_vFK4" />
+
 <img width="1280" height="400" alt="1" src="https://github.com/user-attachments/assets/8368fd54-75a7-43b8-aee5-df9ecb14880c" />
 
 ___
@@ -103,3 +105,5 @@ I’m always open to collaborating with people who enjoy building meaningful and
 Whether it’s AI systems, interactive web apps, games, or experimental ideas, I like working with people who bring curiosity, creativity, and a builder mindset.
 
 If you’re working on something interesting or want to build something together, feel free to reach out.
+
+
