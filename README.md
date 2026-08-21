@@ -12,7 +12,8 @@ ___
 
 ### 🤖 Current Focus
 <p>
- Building an AI Desktop Robot Pet, exploring the future of personal AI companions, behavior, and interaction.
+ Building a cute AI Voice Assistant Like Alexa Called Mini.
+ [https://github.com/aridev24/Mini-V1](URL)
 </p>
 
 ### 🧠 About Me
