@@ -13,7 +13,7 @@ ___
 ### 🤖 Current Focus
 <p>
  Building a cute AI Voice Assistant Like Alexa Called Mini.
- [https://github.com/aridev24/Mini-V1](URL)
+ https://github.com/aridev24/Mini-V1
 </p>
 
 ### 🧠 About Me
