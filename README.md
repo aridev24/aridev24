@@ -98,12 +98,6 @@ ___
 
 ___
 
-### 🎯 Mindset
-
-- Build products. Not just projects.
-- Learn by doing. Improve by shipping.
-
-___
 
 ### 📈 Vision
 
