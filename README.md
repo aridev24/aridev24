@@ -85,9 +85,6 @@ ___
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge\&logo=slack\&logoColor=white)
 
-**🪟 Platform**
-
-![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
 
 ___
