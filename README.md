@@ -86,6 +86,11 @@ ___
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aridev24&theme=github_dark" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aridev24&theme=github_dark" height="180" />
 </p>
+<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aridev24&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aridev24&theme=github_dark" height="180" />
+</p>
 
 
 ___
