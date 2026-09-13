@@ -31,7 +31,7 @@ ___
 
 ### 🤖 Current Focus
 <p>
- Designing a Vinland Saga Themed Web-Based OS
+ Designing a Vinland Saga Themed Web-Based OS https://github.com/aridev24/Vinland-Saga-OS
  https://github.com/aridev24/Mini-V1
 </p>
 
