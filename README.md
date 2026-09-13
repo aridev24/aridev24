@@ -31,7 +31,7 @@ ___
 
 ### 🤖 Current Focus
 <p>
- Building a cute AI Voice Assistant Like Alexa Called Mini.
+ Designing a Vinland Saga Themed Web-Based OS
  https://github.com/aridev24/Mini-V1
 </p>
 
